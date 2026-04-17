@@ -1,0 +1,3 @@
+# Content for text_extractor.py
+
+# Your code here...
